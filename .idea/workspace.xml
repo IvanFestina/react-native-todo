@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7aa50047-ef02-4e9f-b428-33487c4a2bc8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/svg/Bell.tsx" afterDir="false" />
+    <list default="true" id="7aa50047-ef02-4e9f-b428-33487c4a2bc8" name="Changes" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/svg/Bell.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/svg/Bell.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,8 +74,18 @@
       <workItem from="1654270593272" duration="1000" />
       <workItem from="1654271116305" duration="4756000" />
       <workItem from="1654276915556" duration="1501000" />
-      <workItem from="1654278457078" duration="1980000" />
+      <workItem from="1654278457078" duration="2004000" />
+      <workItem from="1656106999491" duration="2016000" />
+      <workItem from="1656198985346" duration="12000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1654282280680</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654282280680</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,5 +102,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
